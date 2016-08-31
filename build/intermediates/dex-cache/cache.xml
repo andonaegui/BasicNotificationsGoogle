@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cde83122e18e56a86784f39c30a98cc78174af1d">
+        <dex dex="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_73519d31965d6c4660489cd1c03afe254cf55c0c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.1.1_c3e4647af8b2035243379624319c231717e9e958\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_e39cea8ef52b683b071bf7fa25bcc40d873d6eee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_173e4ece1346e106094324fbe293f12b945a3de1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_a3dbb2774ba0f4e87af43cf9f1ba7efcb644f837\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7da447b521f810da564d436a1d79f541c641ac0b">
+        <dex dex="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ca3bb476326f572f2fec21ce769c104e437c68c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_9c3e7f13ad1eee5c4dfc30db9a8d3f792f9cfd13\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_edf6405018ab23aadfee26cc52da1a45c907b7ed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_84647ffbc540c7f84490b62a2a77506a56ca1651\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Angular10\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Angular10\AndroidStudioProjects\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_580d313c8b2c71a4eacae02f8560e0f87e307e34\classes.dex" />
+    </item>
+
+</items>
